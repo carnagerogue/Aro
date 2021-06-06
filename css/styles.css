@@ -5,10 +5,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h1 {
+#chris {
   margin-top: 0;
-  font-size: 525%;
-  font-family: 'Arizonia', cursive, sans-serif;
+  font-size: 5rem;
+  font-family: 'Arizonia', cursive;
+  font-weight: bold;
 }
 
 .center-table {
@@ -41,6 +42,7 @@ h3 {
 
 h2 {
   font-size: 230%;
+  margin: 20px 0 20px 0;
 }
 
 P {
