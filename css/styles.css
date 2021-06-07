@@ -160,6 +160,7 @@ hr {
 
 .mountain-img {
   position: static;
+  width: 50%;
 }
 
 #contact h3 {
@@ -364,4 +365,9 @@ fieldset {
   margin: 30%;
   transform: rotate(45deg);
   width: 40%;
+}
+
+.coding-img{
+  border-radius: 100%;
+  width: 10%;
 }
